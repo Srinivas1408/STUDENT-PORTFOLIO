@@ -1,8 +1,1 @@
-Project 1: Student Management System
-
-The Student Management System is a simple project developed to manage student information such as name, roll number, marks, and attendance. It helps organize and store student records efficiently, making data management easier and reducing manual work. This project improves understanding of data handling and basic system development.
-
-
-Project 2: Online Quiz Application
-
-The Online Quiz Application is a basic project designed to conduct quizzes through a digital platform. It allows users to answer multiple-choice questions, calculates scores automatically, and displays results instantly. This project helps improve knowledge in developing interactive applications and understanding user input processing.
+I am learning Git projects and branching.
