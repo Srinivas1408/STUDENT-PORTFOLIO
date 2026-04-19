@@ -1,8 +1,1 @@
-I CREATE AN HTML WEB PAGE FOR STUDENT PORTFOLIO 
-
-THE STUDENT PORTFOLIO CONSISTS OF 
-    NAME   : sRINIVAS
-    TITLE  : STUDENT PORTFOLIO
-
-ADDITIONAL INFORMATION 
-    I am Srinivas, a student interested in learning new technologies and improving my technical skills. This student portfolio provides information about my academic journey, skills, and projects. I have basic knowledge in HTML, CSS, Java, and programming concepts. I have worked on projects such as a Student Management System and an Online Quiz Application, which helped me improve my practical knowledge. This portfolio represents my learning, achievements, and interest in web development and software technologies.
+I am learning Git basics.
