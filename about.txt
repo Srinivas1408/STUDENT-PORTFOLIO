@@ -1,1 +1,1 @@
-I am learning Git basics.
+I am learning Git basics, projects, and branching.
